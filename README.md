@@ -1,4 +1,4 @@
-# 📝 React Todo App with Components (v3 - 重構版)
+# 📝 React Fullstack Todo App (Frontend only, for practice)
 
 一個使用 React Functional Components 構建的現代化待辦事項管理應用程式，採用**組件獨立性設計**，具有簡潔的 UI 設計和直觀的用戶體驗。
 
